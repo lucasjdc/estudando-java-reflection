@@ -6,6 +6,10 @@ public class Pessoa {
     private String nome;
     private String cpf;
 
+    public Pessoa(String nome) {
+        this.nome = nome;
+    }
+
     public Pessoa(Integer id, String nome, String cpf) {
         this.id = id;
         this.nome = nome;
