@@ -3,7 +3,6 @@ package br.com.alura.refl;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
-
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
